@@ -1,2 +1,3 @@
 # skronk-pd
-Pd patches for skronk
+these are the pd patches for skronk
+
