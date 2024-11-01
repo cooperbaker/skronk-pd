@@ -1,3 +1,4 @@
-# skronk-pd
-these are the pd patches for skronk
+### Skronk Pd
+
+Pd Patches For Skronk
 
